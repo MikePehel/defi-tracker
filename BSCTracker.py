@@ -3,7 +3,6 @@ import discord
 from discord.ext import commands, tasks
 from dotenv import load_dotenv
 import requests
-import asyncio
 import pprint as pp
 import time
 from bs4 import BeautifulSoup
